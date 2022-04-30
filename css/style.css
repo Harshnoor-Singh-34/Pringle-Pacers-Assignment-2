@@ -86,7 +86,6 @@ nav a:hover{
 }
 
 .content{
-    height:1000px;
     background-color:rgb(18,24,31)
 }
 
@@ -97,6 +96,38 @@ nav a:hover{
 }
 
 .group-images h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color:#fff;
+    font-weight: 200;
+    font-size:30px;
+}
+
+.group-images h2{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color:#fff;
+    font-weight: 300;
+    font-size:50px;
+    padding-top:20px;
+}
+
+.tech h2{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color:#fff;
+    font-weight: 300;
+    font-size:50px;
+    padding-top:20px;
+}
+
+.tech img{
+    width:100%;
+    margin: 20px;
+    border-radius:20px;
+}
+
+.tech h1{
     text-align: center;
     font-family: 'Poppins', sans-serif;
     color:#fff;
