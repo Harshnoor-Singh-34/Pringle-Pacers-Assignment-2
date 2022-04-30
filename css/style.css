@@ -4,7 +4,7 @@
 }
 
 .container1{
-    width:90%;
+    width:80%;
     margin:auto;
 }
 
@@ -28,8 +28,6 @@ h4{
 nav{
     background-color: #fff;
     color:rgb(18,24,31);
-    position: fixed;
-    top: 0;
     width: 100%;
 }
 
@@ -90,4 +88,18 @@ nav a:hover{
 .content{
     height:1000px;
     background-color:rgb(18,24,31)
+}
+
+.group-images img{
+    margin:20px;
+    border-radius: 20px;;
+    width:100%;
+}
+
+.group-images h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color:#fff;
+    font-weight: 200;
+    font-size:30px;
 }
