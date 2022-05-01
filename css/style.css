@@ -99,7 +99,7 @@ nav a:hover{
 
 .group-images img{
     margin:20px;
-    border-radius: 20px;;
+    border-radius: 20px;
     width:100%;
 }
 
@@ -218,4 +218,9 @@ nav a:hover{
 
 .footer{
     background-color:#fff;
+}
+
+.profile-images img{
+    border-radius: 100px;
+    width:60%;
 }
